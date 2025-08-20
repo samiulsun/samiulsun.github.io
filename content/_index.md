@@ -1,11 +1,10 @@
 ---
+
 ---
 
-Aspiring software engineer
- who loves learning, building, and 
- solving problems.
+Aspiring software engineer who loves learning, building, and solving problems.
 
 
-{{< button href="/contact/" target="_self" >}}
-Get In Touch
+{{< button href="https://linkedin.com/in/samiulsun" target="_blank" >}}
+Connect on LinkedIn
 {{< /button >}}

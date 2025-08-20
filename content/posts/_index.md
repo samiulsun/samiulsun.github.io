@@ -1,12 +1,17 @@
 ---
-title: 'Blog'
-description: 'Thoughts, tutorials, and insights about software development'
+title: "Posts"
+date: 2025-07-19T00:00:00+00:00
+draft: false
+
 showDate: false
-showAuthor: false
+showDateUpdated: false
+showHeadingAnchors: false
+showPagination: false
 showReadingTime: false
-showEdit: false
+showTableOfContents: true
+showTaxonomies: false
+showWordCount: false
+showSummary: false
+sharingLinks: false
+
 ---
-
-# Blog Posts 📝
-
-Welcome to my blog! Here I share thoughts, tutorials, and insights about software development, technology trends, and my learning journey. Whether you're a beginner or an experienced developer, I hope you find something valuable here.
