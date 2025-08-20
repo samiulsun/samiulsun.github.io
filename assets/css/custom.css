@@ -1,7 +1,101 @@
 
-.main-menu a {
-	font-size: 1.4rem !important;
+/* Roboto Mono Font Faces - Following Blowfish Official Method */
+
+@font-face {
+    font-family: 'RobotoMono';
+    src: url('/fonts/RobotoMono-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'RobotoMono';
+    src: url('/fonts/RobotoMono-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'RobotoMono';
+    src: url('/fonts/RobotoMono-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'RobotoMono';
+    src: url('/fonts/RobotoMono-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
 }
 
 
 
+/* Apply Roboto Mono to entire HTML - Following Blowfish Official Method */
+html {
+    font-family: 'RobotoMono', 'Courier New', monospace;
+    font-size: 14pt;
+    line-height: 1.6;
+}
+
+/* Apply to body as well for better coverage */
+body {
+    font-family: 'RobotoMono', 'Courier New', monospace;
+    font-weight: 400;
+}
+
+/* Headings with different weights */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'RobotoMono', 'Courier New', monospace;
+    font-weight: 500;
+}
+
+
+
+/* Navigation */
+nav, .menu, .nav-link {
+    font-family: 'RobotoMono', 'SF Mono', Monaco, 'Cascadia Code', 'Courier New', monospace;
+    font-size: 1.4rem;
+    font-weight: 400;
+}
+
+/* Profile section */
+.profile-name {
+    font-family: 'RobotoMono', 'SF Mono', Monaco, 'Cascadia Code', 'Courier New', monospace;
+    
+}
+
+.profile-title, .profile-headline {
+    font-family: 'RobotoMono', 'Courier New', monospace;
+}
+
+/* Content areas */
+.content, .prose, article, p {
+    font-family: 'RobotoMono', 'Courier New', monospace;
+    font-weight: 400;
+}
+
+/* Buttons */
+button, .btn, .button {
+    font-family: 'RobotoMono', 'Courier New', monospace;
+    font-weight: 500;
+}
+
+/* Site title and logo text */
+.site-title, .logo-text {
+    font-family: 'RobotoMono', 'Courier New', monospace;
+    font-weight: 500;
+}
+
+/* Cards */
+.card, .project-card, .post-card {
+    font-family: 'RobotoMono', 'Courier New', monospace;
+}
+
+* {
+    font-family: 'RobotoMono', 'SF Mono', Monaco, 'Cascadia Code', 'Courier New', monospace;
+}

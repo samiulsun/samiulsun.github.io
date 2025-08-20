@@ -10,22 +10,23 @@ title = "Samiul Islam"
   rtl = false
   dateFormat = "2 January 2006"
   logo = "img/logo.png"
-  #secondaryLogo = "img/logo.png"
-  description = "Personal portfolio and blog of Samiul Islam - Software Developer, Tech Enthusiast"
+  secondaryLogo = "img/logo.png"
+  description = "Sun | Portfolio"
   copyright = "© 2025 Samiul Islam. All rights reserved."
 
 [params.author]
-  name = "Samiul Islam"
+  name = "Samiul Islam Sun"
   
   email = "samiulsun.islam@gmail.com"
   image = "img/author.jpg"
   imageQuality = 96
-  headline = "Software Developer & Tech Enthusiast"
-  bio = "Passionate about creating innovative solutions and sharing knowledge through code. I love building web applications, exploring new technologies, and contributing to open source projects."
+  headline = "Code. Create. Conquer"
+  subtitle = "🧠 Builder · AI, agents, infra · OSS · Mentor & startup advisor"
+  bio = "Aspiring software engineer who loves learning, building, and solving problems."
   links = [
-    { email = "mailto:your.email@example.com" },
-    { github = "https://github.com/yourusername" },
-    { linkedin = "https://linkedin.com/in/yourusername" },
-    { twitter = "https://twitter.com/yourusername" },
-    { dev = "https://dev.to/yourusername" },
+    { github = "https://github.com/samiulsun" },
+    { linkedin = "https://linkedin.com/in/samiulsun" },
+    { x-twitter  = "https://twitter.com/Sun_Samiul" },
+    { instagram = "https://instagram.com/sun_samiul" },
+    { email = "mailto:samiulsun.islam@gmail.com" },
   ]

@@ -11,24 +11,27 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "About"
-  pre = "ghost"
+  name = " About"
+  pre = "heart-empty"
   pageRef = "about"
   weight = 10
 
 [[main]]
-  name = "Blog"
+  name = " Posts"
+  pre = "pencil"
   pageRef = "posts"
   weight = 20
 
 [[main]]
-  name = "Projects"
+  name = " Projects"
+  pre = "shield"
   pageRef = "projects"
   weight = 30
 
 [[main]]
-  name = "Contact"
-  pageRef = "contact"
+  name = " Resume"
+  pre = "google-scholar"
+  pageRef = "resume"
   weight = 40
 
 # -- Footer Menu --
@@ -39,11 +42,6 @@
   name = "About"
   pageRef = "about"
   weight = 10
-
-[[footer]]
-  name = "Contact"
-  pageRef = "contact"
-  weight = 20
 
 [[footer]]
   name = "Tags"
