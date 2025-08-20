@@ -1,0 +1,31 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Samiul Islam"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/logo.png"
+  #secondaryLogo = "img/logo.png"
+  description = "Personal portfolio and blog of Samiul Islam - Software Developer, Tech Enthusiast"
+  copyright = "© 2025 Samiul Islam. All rights reserved."
+
+[params.author]
+  name = "Samiul Islam"
+  
+  email = "samiulsun.islam@gmail.com"
+  image = "img/author.jpg"
+  imageQuality = 96
+  headline = "Software Developer & Tech Enthusiast"
+  bio = "Passionate about creating innovative solutions and sharing knowledge through code. I love building web applications, exploring new technologies, and contributing to open source projects."
+  links = [
+    { email = "mailto:your.email@example.com" },
+    { github = "https://github.com/yourusername" },
+    { linkedin = "https://linkedin.com/in/yourusername" },
+    { twitter = "https://twitter.com/yourusername" },
+    { dev = "https://dev.to/yourusername" },
+  ]
