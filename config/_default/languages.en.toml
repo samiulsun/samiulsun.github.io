@@ -12,7 +12,7 @@ title = "Samiul Islam"
   logo = "img/logo.png"
   secondaryLogo = "img/logo.png"
   description = "Sun | Portfolio"
-  copyright = "© 2025 Samiul Islam. All rights reserved."
+  copyright = "© 2025 Samiul Islam Sun. All rights reserved."
 
 [params.author]
   name = "Samiul Islam Sun"
@@ -21,8 +21,10 @@ title = "Samiul Islam"
   image = "img/author.jpg"
   imageQuality = 96
   headline = "Code. Create. Conquer"
-  subtitle = "🧠 Builder · AI, agents, infra · OSS · Mentor & startup advisor"
   bio = "Aspiring software engineer who loves learning, building, and solving problems."
+
+
+
   links = [
     { github = "https://github.com/samiulsun" },
     { linkedin = "https://linkedin.com/in/samiulsun" },
