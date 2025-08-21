@@ -35,17 +35,6 @@ I always try to find time to work and learn something new. Usually, most of thes
         </tr>
     </thead>
     <tbody>
-         <tr>
-            <td><img class="customEntitityAlbum" style="background-color:transparent" src=""/></td>
-            <td>
-              Blowfish
-              {{< badge >}}
-              Active
-              {{< /badge >}}
-            </td>
-            <td>A powerful, lightweight theme for Hugo built with Tailwind CSS.</td>
-            <td><a target="_blank" href="">site</a></br><a target="_blank" href="
-            ">github</a></td>
-        </tr>
+         
     </tbody>
 </table>
